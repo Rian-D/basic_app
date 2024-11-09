@@ -1,5 +1,4 @@
-Skyscanner Front-End Software Engineering virtual experience programme on Forage
-- November 2024
+Skyscanner Front-End Software Engineering virtual experience programme on Forage.
 
  * Completed a job simulation where I built a web application using React as a
    front-end engineer at Skyscanner.
